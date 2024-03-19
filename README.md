@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a computer science student with an interest in video game development/programming/design! 
+
+More to come...
 <!--
 **Marmin101/marmin101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
